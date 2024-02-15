@@ -1,0 +1,36 @@
+/* font-family: 'Montserrat', sans-serif; */
+p, h1, li, a {
+    color: brown;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+a {
+    display: inline;
+}
+
+#foot {
+    color:blue;
+    text-align: center;
+    font-size: small;
+}
+li:hover {
+    color:green;
+}
+.medium-p {
+    line-height: 2;
+    border: 1px dashed green;
+    margin: 10px;
+    padding: 11px;
+}
+.big-p {
+    letter-spacing: 3px;
+}
+img {
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+html {
+    background-color: bisque;
+}
